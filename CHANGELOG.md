@@ -1,6 +1,6 @@
 <p align="center"><img src="https://raw.githubusercontent.com/svengreb/golib/main/assets/images/repository-hero.svg?sanitize=true"/></p>
 
-<p align="center"><a href="https://github.com/svengreb/golib/releases/latest" target="_blank"><img src="https://img.shields.io/github/release/svengreb/golib.svg?style=flat-square&label=Release&logo=github&logoColor=eceff4&colorA=4c566a&colorB=88c0d0"/></a></p>
+<p align="center"><a href="https://github.com/svengreb/golib/releases/latest" target="_blank"><img src="https://img.shields.io/github/release/svengreb/golib.svg?style=flat-square&label=Release&logo=github&logoColor=eceff4&colorA=4c566a&colorB=88c0d0"/></a> <a href="https://pkg.go.dev/github.com/svengreb/golib" target="_blank"><img src="https://img.shields.io/github/release/svengreb/golib.svg?style=flat-square&label=GoDoc&logo=go&logoColor=eceff4&colorA=4c566a&colorB=88c0d0"/></a></p>
 
 <p align="center">Changelog for <a href="https://github.com/svengreb/golib" target="_blank">golib</a> — A core library of <a href="https://go.dev" target="_blank">Go</a> packages.</p>
 
